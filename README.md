@@ -4,7 +4,7 @@
 
 This repository contains an exclusive Rule List configuration for the **ZeroOmega** (or SwitchyOmega) browser extension. The goal is to enable intelligent split tunneling for users within the **[Fingerify Ecosystem](https://github.com/Fingerify/Fingerify-Desktop)**.
 
-By using this setup, your browser intelligently determines which websites (Iranian banks, domestic services) should be accessed using a **Direct/Local connection** and which websites (Upwork, PayPal, general foreign traffic) must pass through your **secure Fingerify proxy**.
+By using this setup, your browser intelligently determines which websites (Iranian banks, domestic services) should be accessed using a **Direct/Local connection** and which websites (ِYoutube, general foreign traffic) must pass through your **Server With Fingerify**.
 
 ---
 
@@ -23,7 +23,7 @@ This method allows you to subscribe to the rules list via URL, enabling automati
     * Set the **Rule List Format** checkbox to **Switchy**.
     * In the **Rule List URL** box, precisely copy and paste the following link:
 
-> `https://raw.githubusercontent.com/fingerify/Fingerify-Smart-Split/main/ZeroOmega_Rule%20List%20Config.sorl`
+> `https://raw.githubusercontent.com/fingerify/Fingerify-Smart-Split-ZeroOmega-Config/main/ZeroOmega_Rule_List_Config.sorl`
 
 3.  Click the **Download Profile Now** button. (A green `Rule list downloaded` message should appear).
 
@@ -55,12 +55,12 @@ Maintained by **[Fingerify Team](https://github.com/fingerify)**
 
 این مخزن حاوی «لیست قوانین» (Rule List) اختصاصی برای افزونه **ZeroOmega** (یا SwitchyOmega) است. هدف این کانفیگ، تفکیک هوشمند ترافیک برای کاربران **[Fingerify](https://github.com/Fingerify/Fingerify-Desktop)** است.
 
-با استفاده از این تنظیمات، مرورگر شما به‌طور هوشمند تشخیص می‌دهد که کدام سایت‌ها (بانک‌ها، خدمات داخلی) باید با **اینترنت عادی** باز شوند و کدام سایت‌ها (Upwork, PayPal) باید از **پروکسی امن Fingerify** عبور کنند.
+با استفاده از این تنظیمات، مرورگر شما به‌طور هوشمند تشخیص می‌دهد که کدام سایت‌ها (بانک‌ها، خدمات داخلی) باید با **اینترنت عادی** باز شوند و کدام سایت‌ها (Youtube) باید از **Fingerify و آی‌پی سرور** عبور کنند.
 
 ---
 
 ## ⚠️ هشدارهای مهم
-> **❌ توجه بسیار مهم:** این تنظیمات صرفاً برای مرورگرهای عادی (مانند Chrome یا Edge استاندارد) طراحی شده است. **به هیچ عنوان** این تنظیمات را روی مرورگرهای امنیتی خاص (مانند Fingerify Secure Browser) اعمال نکنید، زیرا ممکن است باعث نشت هویت شود.
+> **❌ توجه بسیار مهم:** این تنظیمات صرفاً برای مرورگرهای عادی (مانند Chrome یا Edge استاندارد) طراحی شده است. **به هیچ عنوان** این تنظیمات را روی مرورگرهای امنیتی خاص (مانند کروم آبی یا Fingerify Secure Browser) اعمال نکنید، زیرا ممکن است باعث نشت هویت شود.
 
 ---
 
@@ -74,7 +74,7 @@ Maintained by **[Fingerify Team](https://github.com/fingerify)**
     * تیک گزینه **Rule List Format** را روی حالت **Switchy** بگذارید.
     * در کادر **Rule List URL**، لینک زیر را دقیقاً کپی و وارد کنید:
 
-> `https://raw.githubusercontent.com/fingerify/Fingerify-Smart-Split/main/ZeroOmega_Rule%20List%20Config.sorl`
+> `https://raw.githubusercontent.com/fingerify/Fingerify-Smart-Split-ZeroOmega-Config/main/ZeroOmega_Rule_List_Config.sorl`
 
 3.  روی دکمه **Download Profile Now** کلیک کنید. (باید پیام سبز رنگ `Rule list downloaded` ظاهر شود).
 
